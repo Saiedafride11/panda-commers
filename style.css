@@ -19,3 +19,53 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.submit-btn{
+    margin-top: 10px;
+}
+
+
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: red;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
+.catagories h1{
+    color: #fff;
+}
+.catagories img{
+    width: 100px;
+}
+
+
+.card{
+    border: none;
+    box-shadow: 5px 10px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+}
+
+
+#Subcribe{
+    height: 300px;
+}
+#Subcribe h6{
+    color: grey;
+}
+
+footer{
+    text-align: center;
+}
+
+.footer-section{
+    margin-bottom: 50px;
+}
